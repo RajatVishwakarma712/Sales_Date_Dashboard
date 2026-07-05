@@ -68,3 +68,5 @@ LinkedIn: *(www.linkedin.com/in/rajat-dataanalyst0301)*
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
+<img width="1147" height="687" alt="Finance_data" src="https://github.com/user-attachments/assets/726469fe-0ad3-4308-8bf5-59e5bab6c0c3" />
+
